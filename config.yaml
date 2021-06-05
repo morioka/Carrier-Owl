@@ -6,6 +6,9 @@ keywords:
         kaggle: 3
         resnet: 3
         anomaly detection: 1
+        natural langage processing: 5
+        nlp: 5
+        generative model: 1
 
 # 通知の閾値
 score_threshold: 0
